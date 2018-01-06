@@ -1,0 +1,3 @@
+[submodule "Jtech"]
+	path = Jtech
+	url = https://github.com/jacobcoughenour/Jtech.git
